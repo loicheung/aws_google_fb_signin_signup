@@ -14,7 +14,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.0
-  flutter_svg: ^0.18.0
+  flutter_svg: ^0.22.0
   webview_flutter: ^1.0.7
   amazon_cognito_identity_dart_2: ^0.1.15
 
